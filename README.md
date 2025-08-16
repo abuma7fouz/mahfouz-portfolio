@@ -1,19 +1,14 @@
-# Mahfouz Portfolio
+# Mahfouz — Fresh Dark Portfolio (ML)
 
-🚀 Personal portfolio website for **Mohamed Mahfouz** — Machine Learning Engineer.  
+Rebuilt from scratch with your final requirements: dark-only, sticky top navbar, brand text "Mahfouz", responsive hero, 8 technical skills (no cloud), soft skills, and your social links.
 
-Showcasing:
-- Projects
-- Technical Skills (Python, C++, R, Machine Learning, Deep Learning, NLP, Computer Vision, Data Analysis, APIs)
-- Soft Skills
+## Links
+- Email: abumahfouzhsham5@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abumahfouz
+- GitHub: https://github.com/abuma7fouz
+- Instagram: https://www.instagram.com/abuma7fouz/
 
-📱 Fully responsive design (desktop & mobile).  
-🌐 Deployed with GitHub Pages.  
-
----
-
-🔗 **Live Website:** [Soon after enabling GitHub Pages]  
-📧 Email: abumahfouzhsham5@gmail.com  
-💼 LinkedIn: [linkedin.com/in/abumahfouz](https://www.linkedin.com/in/abumahfouz)  
-💻 GitHub: [github.com/abuma7fouz](https://github.com/abuma7fouz)  
-📷 Instagram: [instagram.com/abuma7fouz](https://www.instagram.com/abuma7fouz/)
+## Deploy (GitHub Pages)
+1. Create repo (e.g., `mahfouz-portfolio`).
+2. Upload all files to branch `main`.
+3. Settings → Pages → Deploy from a branch → `main` / `/root`.
